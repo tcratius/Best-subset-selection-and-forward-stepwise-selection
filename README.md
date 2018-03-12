@@ -1,1 +1,1 @@
-# Compare-best-subset-selection-and-forward-stepwise-selection
+Perform similar, but likely much smaller scale simulations to compare best subset selection and forward stepwise selection. Compare the functions in terms of their variable selection accuracyand computational speed. 
